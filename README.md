@@ -1,7 +1,7 @@
 # 🐈‍⬛✨ Bienvenid@ al Grimorio de los Gatos Brujos ✨🐾
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2dzcnhkdDlzcm8ydGRuaDBpYXp3YmR6bDcwZTFmbThtNWUydzR5ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ICOgUNjpvO0PC/giphy.gif" width="200"/>
+  <img src="./GatoBrujo.jpeg" width="200"/>
 </div>
 
 ---
